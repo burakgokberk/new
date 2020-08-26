@@ -6,14 +6,7 @@ namespace MyAAA
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
-          aasdasdasas  Console.WriteLine("Hello World!");
-
-            a
-            zcfdgrthr
-
-
+          öjbv bn
 
         }
     }
